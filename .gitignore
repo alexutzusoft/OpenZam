@@ -1,0 +1,20 @@
+# Gitignore file for OpenZam
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Audio files
+songs/*
+
+# Database
+database/
+song_database.json
+
+# Benchmark results
+benchmark_speed.py
+
+# Songs directory
+songs/
